@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 前端开发
+- 🌱 想做产品经理，目前前端
 - 🪦 你可以通过我的 [主页](lastwhisper.online) 联系我
 - ⛵ 相对于编程，更热爱生活
 
